@@ -38,7 +38,7 @@ pinout:
   uo[2]: "state[2]"
   uo[3]: "state[1]"
   uo[4]: "state[0]"
-  uo[5]: "debug[2]""
+  uo[5]: "debug[2]"
   uo[6]: "debug[1]"
   uo[7]: "debug[0]"
 
